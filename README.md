@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gucarlos
+- 👀 I’m interested in balls
+- 🌱 I’m currently learning CS/AI
+- 📫 How to reach me ,emils:guxy24@mails.tsinghua.edu.cn
